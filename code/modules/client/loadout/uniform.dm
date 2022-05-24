@@ -31,9 +31,6 @@
 /datum/loadout_item/uniform/kilt
 	path = /obj/item/clothing/under/costume/kilt
 
-/datum/loadout_item/uniform/psychedelic
-	path = /obj/item/clothing/under/misc/psyche
-
 /datum/loadout_item/uniform/gear_harnesses
 	path = /obj/item/clothing/under/misc/gear_harness
 
