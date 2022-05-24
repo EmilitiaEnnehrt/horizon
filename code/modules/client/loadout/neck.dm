@@ -5,6 +5,13 @@
 /datum/loadout_item/neck/headphones
 	path = /obj/item/clothing/ears/headphones
 
+/datum/loadout_item/neck/necklace
+	path = /obj/item/clothing/neck
+
+/datum/loadout_item/neck/goldnecklace
+	path = /obj/item/clothing/neck/necklace/dope
+	cost = 3
+
 /datum/loadout_item/neck/choker
 	path = /obj/item/clothing/neck/human_petcollar/choker
 
@@ -34,6 +41,9 @@
 
 /datum/loadout_item/neck/rscloakchampion
 	path = /obj/item/clothing/neck/cloak/rscloak/champion
+
+/datum/loadout_item/neck/beads
+	path = /obj/item/clothing/neck/beads
 
 //SCARVES
 /datum/loadout_item/neck/scarf
@@ -75,6 +85,9 @@
 /datum/loadout_item/neck/scarf/stripedgreenscarf
 	path = /obj/item/clothing/neck/stripedgreenscarf
 
+/datum/loadout_item/neck/scraft/zebra
+	path = /obj/item/clothing/neck/scarf/zebra
+
 //TIES
 /datum/loadout_item/neck/tie
 	subcategory = LOADOUT_SUBCATEGORY_NECK_TIE
@@ -87,3 +100,6 @@
 
 /datum/loadout_item/neck/tie/blacktie
 	path = /obj/item/clothing/neck/tie/black
+
+/datum/loadout_item/neck/tie/horrible
+	path = /obj/item/clothing/neck/tie/horrible
