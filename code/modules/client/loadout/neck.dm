@@ -5,7 +5,6 @@
 /datum/loadout_item/neck/headphones
 	path = /obj/item/clothing/ears/headphones
 
-
 /datum/loadout_item/neck/goldnecklace
 	path = /obj/item/clothing/neck/necklace/dope
 	cost = 3
@@ -83,7 +82,11 @@
 /datum/loadout_item/neck/scarf/stripedgreenscarf
 	path = /obj/item/clothing/neck/stripedgreenscarf
 
+<<<<<<< HEAD
 /datum/loadout_item/neck/scarf/zebra
+=======
+/datum/loadout_item/neck/scraft/zebra
+>>>>>>> 8c6536457f (Loadout Update)
 	path = /obj/item/clothing/neck/scarf/zebra
 
 //TIES
