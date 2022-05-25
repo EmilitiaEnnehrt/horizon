@@ -5,8 +5,6 @@
 /datum/loadout_item/neck/headphones
 	path = /obj/item/clothing/ears/headphones
 
-/datum/loadout_item/neck/necklace
-	path = /obj/item/clothing/neck
 
 /datum/loadout_item/neck/goldnecklace
 	path = /obj/item/clothing/neck/necklace/dope
