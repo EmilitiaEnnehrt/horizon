@@ -78,9 +78,6 @@
 	/// Should this sprite block emissives?
 	var/em_block = TRUE
 
-	///What body parts are covered by the clothing when you wear it
-	var/body_parts_covered = 0
-
 	///Unique key of an accessroy. All tails should have "tail", ears "ears" etc.
 	var/key = null
 	///If an accessory is special, it wont get included in the normal accessory lists
