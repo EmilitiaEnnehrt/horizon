@@ -475,7 +475,7 @@
 	icon_state = "dutchjacket"
 	inhand_icon_state = "dutchjacket"
 	allowed = list(/obj/item/flashlight, /obj/item/tank/internals/emergency_oxygen, /obj/item/tank/internals/plasmaman, /obj/item/toy, /obj/item/storage/fancy/cigarettes, /obj/item/lighter, /obj/item/radio)
-	body_parts_covered = CHEST|GROIN|ARMS
+	body_parts_covered = ARMS
 	fitted_bodytypes = NONE
 
 /obj/item/clothing/suit/jacket/greatcoat
@@ -788,14 +788,6 @@
 	desc = "The jacket of a mad dog."
 	icon_state = "MajimaJacket"
 	inhand_icon_state = "MajimaJacket"
-	body_parts_covered = ARMS
-	fitted_bodytypes = NONE
-
-/obj/item/clothing/suit/dutch
-	name = "dutch's jacket"
-	desc = "For those long nights on the beach in Tahiti."
-	icon_state = "DutchJacket"
-	inhand_icon_state = "DutchJacket"
 	body_parts_covered = ARMS
 	fitted_bodytypes = NONE
 
