@@ -173,12 +173,15 @@
 	icon_state = "blackdress_bra"
 	body_parts_covered = CHEST|GROIN
 	fitted = FEMALE_UNIFORM_TOP
+	can_adjust = TRUE
+	custom_price = PAYCHECK_HARD
 
 /obj/item/clothing/under/dress/black/onepiece
 	name = "black fashionable dress"
 	desc = "A black one-piece dress with a golden-yellow trim and a raised leg"
 	icon_state = "blackdress"
 	body_parts_covered = CHEST|GROIN
+	alt_covers_chest = TRUE
 
 /obj/item/clothing/under/dress/black/traditional
 	name = "black traditional dress"
