@@ -15,6 +15,12 @@
 	path = /obj/item/clothing/suit/hooded/cloak/david
 	cost = 3
 
+/datum/loadout_item/backpack/accessories/bluesuspenders
+	path = /obj/item/clothing/suit/toggle/suspenders/blue
+
+/datum/loadout_item/backpack/accessories/greysuspenders
+	path = /obj/item/clothing/suit/toggle/suspenders/gray
+
 /datum/loadout_item/suit/ianshirt
 	path = /obj/item/clothing/suit/ianshirt
 
