@@ -74,3 +74,59 @@
       as it doesn&#x27;t on the sprite.
   - balance: ERT medics are now equipped for purpose upon spawning. Normal ones lose
       their medigun, but gain other supplies. Both gain defibs and some other goodies.
+2022-06-06:
+  Alex 'Avunia' Takiya (atakiya):
+  - balance: Three planets spawn now per map by default
+  - code_imp: map content config lists aren&#x27;t spaghetti anymore
+  AtoriBirb:
+  - imageadd: added the suspected sprite
+2022-06-10:
+  Alex 'Avunia' Takiya (atakiya):
+  - qol: Made perfumes last 30 minutes, up from 10 minutes
+  - soundadd: The arcade game sounds don&#x27;t deafen everyone in a radius of 12
+      miles anymore
+  - soundadd: The modular consoles are starting to take on dust, and are therefore
+      a bit louder
+  KathrinBailey:
+  - balance: computer-controlled Megafaunas no longer gib their active targets.
+  drizzlemutt:
+  - rscadd: adds an umbilic bridge from starboard maintenance to the abandoned freight
+      dock
+  - rscdel: removes a fire alarm from the genetics monkey pen
+  - rscdel: removes a duplicate air alarm from inside of xenobiology containment
+  - qol: unlocked the toxins burn chamber air alarm
+  - balance: moves xenobiology escape pod from the NE to NW
+2022-06-11:
+  AtoriBirb:
+  - imageadd: 5 new gun sprites
+  Cypress:
+  - rscadd: New redesigned engine room.
+  - qol: Heatpump radiators for science, medical and scrubbers.
+  - bugfix: Powernet and piping issues on Icebox.
+  Cypress (CypressBz):
+  - bugfix: Plumbing, Power, and Area check debug errors cleared.
+  drizzlemutt:
+  - rscadd: CTS Pigeon
+  - rscadd: EMS Rockdove
+2022-06-12:
+  Azarak:
+  - rscadd: Adds a Slapcraft Framework, which is a system that easily allows implementation
+      of crafting recipes which rely on slapping items against one another. There
+      is a button next to a crafting menu that opens a handbook with recipes for it.
+  - rscdel: Removes crafting menu IED and Flamethrower recipes
+  - rscdel: Removes hardcoded Flamethrower slapcrafting.
+  - rscadd: Adds IED and Flamethrower slapcrafting recipes, which can be found in
+      the handbook.
+  - rscdel: It seems someone stole the lifelike Goliath statues.
+  - balance: Being overfed slows you down less
+  - spellcheck: Overfed people now appear as &quot;stuffed&quot; instead of &quot;quite
+      chubby&quot;
+  Cypress (CypressBz):
+  - qol: Add Sensors to the Tacticool Turtleneck and Skirtleneck
+2022-06-13:
+  Alex 'Avunia' Takiya (atakiya):
+  - imageadd: Added bathrobe
+2022-06-14:
+  Deek-Za (Deek-Za):
+  - rscadd: Added &#x27;My Character&#x27; to available AI hologram options.
+  - code_imp: Altered AI code. Added proc for updating custom holograms.
