@@ -127,6 +127,58 @@
   Alex 'Avunia' Takiya (atakiya):
   - imageadd: Added bathrobe
 2022-06-14:
+  Alex 'Avunia' Takiya (atakiya):
+  - bugfix: Ghosts float once more. And more reliably as well.
+  - rscadd: Added character preference options to choose a hair gradient style and
+      color
+  - rscadd: The first hairdye slot can now be a non-dye, meaning it can&#x27;t be
+      removed - useful for natural hair gradients or effects
+  - rscadd: Added ability to remove hairdye with the hairdye spray with rightclick
+  - rscadd: Added another hair gradient slot, mix and match!
   Deek-Za (Deek-Za):
   - rscadd: Added &#x27;My Character&#x27; to available AI hologram options.
   - code_imp: Altered AI code. Added proc for updating custom holograms.
+  - qol: Holograms can now emote.
+  - qol: Holograms now have runechat support.
+2022-06-15:
+  /tg/station, Avunia Takiya:
+  - rscadd: Ported lots of updates for Circuits/Wiremod from /tg/station
+  Azarak:
+  - bugfix: Fixes Storytellers often not running any events.
+  - bugfix: Fixes bad points comparison on loadout validation, this may fix some loadout
+      reset issues although I&#x27;m not sure.
+  Emilitia Ennehrt (EmilitiaEnnehrt):
+  - qol: Added suspenders to the loadout menu
+  - balance: Make TTS device costs lower
+2022-06-16:
+  Azarak:
+  - rscadd: Adds a powerful framework for all sorts of recipes, but is currently unused.
+  - rscadd: Adds bloom overlays. Those are added to light fixtures, floodlight, desk
+      lamps, flares, bonfires and fireplaces
+  - rscadd: Slapcrafting now has more feedback
+  - rscadd: Knives now make a cutting noise when used as a tool.
+  Delnth:
+  - rscadd: Added a torch recipe to the slapcraft system
+  - rscdel: Removed the original craft recipe for the torch
+  drizzlemutt:
+  - balance: changed techweb program clearance from RD to Research
+2022-06-17:
+  Deek-Za (Deek-Za):
+  - bugfix: Can no longer attempt to cryo while someone is buckled to you.
+2022-06-18:
+  Alex 'Avunia' Takiya (atakiya):
+  - bugfix: Fixed big and small things becoming normal sized when dropped from hands
+  - soundadd: Made adjustments to existing ambience sounds (general, vending machines,
+      AI areas)
+  - soundadd: Added ambient intercom chatter to arrivals and departures
+  - admin: Added an option in the VV dropdown of mobs to reapply the client&#x27;s
+      character preferences
+  Azarak:
+  - balance: Storyteller will now play events slightly less frequently.
+  Deek-Za (Deek-Za):
+  - bugfix: Cutting cable drops the appropriate cable type.
+  Delnth:
+  - rscadd: Added slapcraft wood chopping. Method is the same as before, but better
+      and with more potential.
+  - rscdel: Removed the old method of turning wood logs into planks.
+  - qol: Removed the drying rack power requirement
