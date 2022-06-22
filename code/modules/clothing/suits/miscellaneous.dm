@@ -484,7 +484,6 @@
 	icon_state = "gentlecoat"
 	inhand_icon_state = "gentlecoat"
 	body_parts_covered = CHEST|GROIN|ARMS|LEGS
-	fitted_bodytypes = NONE
 
 /obj/item/clothing/suit/jacket/ladiesvictoriancoat
 	name = "ladies victorian coat"
@@ -492,7 +491,6 @@
 	icon_state = "ladiesvictoriancoat"
 	inhand_icon_state = "ladiesvictoriancoat"
 	body_parts_covered = CHEST|GROIN|ARMS|LEGS
-	fitted_bodytypes = NONE
 
 /obj/item/clothing/suit/jacket/ladiescoat
 	name = "ladies coat"
@@ -500,7 +498,6 @@
 	icon_state = "ladiescoat"
 	inhand_icon_state = "ladiescoat"
 	body_parts_covered = CHEST|GROIN|ARMS|LEGS
-	fitted_bodytypes = NONE
 
 /obj/item/clothing/suit/jacket/puffer
 	name = "puffer jacket"
