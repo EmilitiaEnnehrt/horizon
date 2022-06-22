@@ -11153,10 +11153,6 @@
 /obj/effect/landmark/start/hangover,
 /turf/open/floor/iron,
 /area/service/bar)
-"aLM" = (
-/obj/effect/turf_decal/trimline/neutral/filled/line,
-/turf/open/floor/iron/dark,
-/area/service/bar)
 "aLP" = (
 /obj/effect/turf_decal/trimline/yellow/warning,
 /obj/machinery/light/small/directional/north,
@@ -21859,11 +21855,6 @@
 	},
 /turf/open/floor/iron/dark,
 /area/hallway/secondary/exit)
-"eos" = (
-/obj/effect/turf_decal/bot,
-/obj/machinery/bluespace_vendor/north,
-/turf/open/floor/iron,
-/area/hallway/secondary/command)
 "eoL" = (
 /obj/effect/turf_decal/trimline/neutral/filled/line{
 	dir = 4
@@ -24635,12 +24626,6 @@
 	},
 /turf/open/floor/iron,
 /area/cargo/sorting)
-"fxf" = (
-/obj/effect/turf_decal/trimline/neutral/filled/line{
-	dir = 1
-	},
-/turf/open/floor/iron,
-/area/hallway/secondary/exit)
 "fxo" = (
 /obj/effect/turf_decal/trimline/red/filled/line{
 	dir = 4
@@ -33561,7 +33546,6 @@
 /obj/effect/mapping_helpers/smart_pipe/manifold4w/scrubbers/hidden/layer2{
 	dir = 8
 	},
-/obj/machinery/bluespace_vendor/north,
 /turf/open/floor/iron,
 /area/commons/dorms)
 "iSG" = (
@@ -34410,7 +34394,6 @@
 	},
 /obj/structure/disposalpipe/segment,
 /obj/structure/cable,
-/obj/machinery/bluespace_vendor/east,
 /turf/open/floor/iron,
 /area/hallway/secondary/entry)
 "jlN" = (
@@ -36878,7 +36861,6 @@
 /obj/structure/chair{
 	dir = 4
 	},
-/obj/machinery/bluespace_vendor/south,
 /turf/open/floor/iron/dark,
 /area/hallway/secondary/exit/departure_lounge)
 "khB" = (
@@ -37286,7 +37268,6 @@
 /obj/effect/mapping_helpers/smart_pipe/manifold4w/supply/hidden/layer4{
 	dir = 4
 	},
-/obj/machinery/bluespace_vendor/north,
 /turf/open/floor/iron,
 /area/commons/dorms)
 "kpe" = (
@@ -40067,13 +40048,6 @@
 	},
 /turf/open/floor/iron/dark,
 /area/engineering/gravity_generator)
-"lpp" = (
-/obj/effect/turf_decal/trimline/yellow/filled/line{
-	dir = 4
-	},
-/obj/machinery/atmospherics/components/unary/bluespace_sender,
-/turf/open/floor/iron,
-/area/engineering/atmos)
 "lpr" = (
 /obj/machinery/portable_atmospherics/canister/oxygen,
 /turf/open/floor/engine/o2,
@@ -41269,7 +41243,6 @@
 /obj/effect/turf_decal/trimline/neutral/filled/line{
 	dir = 1
 	},
-/obj/machinery/bluespace_vendor/north,
 /turf/open/floor/iron,
 /area/hallway/secondary/exit)
 "lOJ" = (
@@ -43635,7 +43608,6 @@
 /obj/effect/turf_decal/trimline/neutral/corner{
 	dir = 4
 	},
-/obj/machinery/bluespace_vendor/north,
 /turf/open/floor/iron,
 /area/hallway/primary/tram/left)
 "mOW" = (
@@ -43931,7 +43903,6 @@
 	dir = 4
 	},
 /obj/structure/disposalpipe/segment,
-/obj/machinery/bluespace_vendor/east,
 /turf/open/floor/iron,
 /area/hallway/secondary/entry)
 "mWg" = (
@@ -47123,6 +47094,7 @@
 /obj/structure/disposalpipe/segment{
 	dir = 5
 	},
+/obj/machinery/module_duplicator,
 /turf/open/floor/iron,
 /area/science/misc_lab)
 "omZ" = (
@@ -63038,7 +63010,6 @@
 /area/commons/dorms)
 "uvw" = (
 /obj/effect/turf_decal/trimline/neutral/filled/line,
-/obj/machinery/bluespace_vendor/south,
 /turf/open/floor/iron/dark,
 /area/service/bar)
 "uvA" = (
@@ -69163,7 +69134,6 @@
 /obj/structure/disposalpipe/segment{
 	dir = 4
 	},
-/obj/machinery/bluespace_vendor/south,
 /turf/open/floor/iron,
 /area/cargo/miningdock)
 "wMj" = (
@@ -91758,7 +91728,7 @@ rJB
 mPk
 xFn
 cwc
-aLM
+uvw
 aej
 aae
 aEc
@@ -92015,7 +91985,7 @@ aXi
 aXi
 aej
 oUr
-aLM
+uvw
 aej
 aae
 aEc
@@ -92272,7 +92242,7 @@ axb
 axb
 aej
 xKP
-aLM
+uvw
 aej
 aae
 aEc
@@ -93043,7 +93013,7 @@ ibN
 esc
 rqV
 gZk
-aLM
+uvw
 aej
 aae
 aae
@@ -96641,7 +96611,7 @@ xiS
 bEk
 rqV
 qsL
-aLM
+uvw
 aej
 uoK
 crx
@@ -97412,7 +97382,7 @@ auG
 auG
 aej
 lHN
-aLM
+uvw
 aej
 lgR
 laz
@@ -97669,7 +97639,7 @@ aam
 aam
 aej
 cII
-aLM
+uvw
 aej
 cIH
 fUq
@@ -97926,7 +97896,7 @@ fMB
 bnJ
 qwJ
 lgf
-aLM
+uvw
 aej
 lgR
 laz
@@ -107213,7 +107183,7 @@ one
 one
 qOl
 xZW
-lpp
+mGV
 lgz
 eBS
 qmC
@@ -169889,7 +169859,7 @@ hOf
 ajs
 aCN
 iMZ
-eos
+eHq
 tjR
 ati
 avQ
@@ -183251,7 +183221,7 @@ wTv
 iVX
 jJo
 xnE
-fxf
+lOB
 sei
 jZZ
 aod
@@ -183508,7 +183478,7 @@ nZR
 jmg
 jJo
 tJC
-fxf
+lOB
 sei
 jZZ
 aod
@@ -183765,7 +183735,7 @@ aae
 qvK
 ajF
 jwo
-fxf
+lOB
 sei
 jZZ
 aod
@@ -184279,7 +184249,7 @@ oYl
 oYl
 oYl
 wld
-fxf
+lOB
 sei
 fwM
 aod
@@ -185581,7 +185551,7 @@ qHU
 jsj
 gBY
 gBY
-fxf
+lOB
 uwx
 sIY
 mYq

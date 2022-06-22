@@ -182,3 +182,39 @@
       and with more potential.
   - rscdel: Removed the old method of turning wood logs into planks.
   - qol: Removed the drying rack power requirement
+2022-06-19:
+  /tg/station:
+  - rscadd: Ported airlock cycling ID setup. You can now repair cycling airlocks ingame
+      within the airlock circuit.
+  Alex 'Avunia' Takiya (atakiya):
+  - rscdel: Removed bluespace gas senders
+  - rscdel: Removed bluespace gas vendors
+  Azarak:
+  - qol: Lowers bloom intensity by roughly 10% and roughly 30% for light fixtures.
+      Lowered bloom radius for lamps and flares.
+  KathrinBailey:
+  - balance: Avians have been hired at the sorting office to ensure mail is now delivered
+      every day of the week, including Sunday.
+  Miss Fox (MissFox0810):
+  - rscadd: Added Circuit Module Duplicator to circuits lab on Pubby Station
+  - rscadd: Added Circuit Module Duplicator to Icebox, Kilo and Tram stations
+2022-06-20:
+  drizzlemutt:
+  - bugfix: removes a duplicate apc from the Rockdove
+  - rscadd: adds a Hermit Ruin area
+  - qol: moves elements to more sane positions
+2022-06-21:
+  KathrinBailey:
+  - rscadd: Milkshakes! You can now craft chocolate, strawberry, vanilla and banana
+      milkshake. Sprites for cherry and bluecherry shakes have been updated too! Craft
+      them with one part flavouring, one part cream, and three parts milk!
+  - rscadd: New mining base for Icebox.
+  - rscadd: Changes to QM&#x27;s office, mining office and a minor break room for
+      cargo in a connecting corridor.
+  Miss Fox (MissFox0810):
+  - rscadd: Silicons are now crew and will appear on manifest
+  drizzlemutt:
+  - bugfix: freight dock fixes and upkeep
+  - bugfix: missing cable from medbay surgery
+  - bugfix: changes tcomms air alarm to correct prefab
+  - balance: restricts radiation storms to outside of stations
